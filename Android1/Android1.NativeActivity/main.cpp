@@ -11,7 +11,7 @@ int android_main(void)
 
 	
 	
-	DrawBox(0, 0, 280, 350, GetColor(255, 255, 255), TRUE);	// 四角形を描画する
+	DrawBox(0, 0, 280, 300, GetColor(255, 255, 255), TRUE);	// 四角形を描画する
 
 	WaitKey();				// キー入力待ち
 
